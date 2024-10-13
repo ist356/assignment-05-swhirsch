@@ -23,3 +23,10 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+In this Assignment Five, I created a data pipeline that helped my understanding of ETL processes. I learned to extract data from multiple sources, such as Google Sheets and web pages, and gained experience in cleaning and transforming the data. By adjusting salary data based on cost-of-living indexes, I practiced using transformations. Finally, I completed the load phase by saving and uploading the processed data to cloud storage, which improved my skills in managing data workflows with cloud resources. 
+
+
+
+
+
+
