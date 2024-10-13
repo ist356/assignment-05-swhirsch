@@ -1,7 +1,7 @@
 # Reflection
 
 Student Name:  Sam
-Sudent Email:  
+Sudent Email:  swhirsch@syr.edu
 
 ## Instructions
 
